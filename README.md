@@ -30,7 +30,7 @@ For obtaining the Netcool Omnibus Performance KPI's, the get_nco_metrics.pl scri
 Procedure to Run the get_nco_metrics.pl Script:
 --------------------------------------------------
 Run the script "get_nco_metrics.pl" for obtaining the Key Performance Indicators(KPIs) from the existing installation of IBM Tivoli Netcool Omnibus.
-1. Download the "get_nco_metrics.pl" script from the location: https://github.com/ArchanaDNaik/Demo
+1. Download the "get_nco_metrics.pl" script from the location: https://github.com/GDC-ITAuto/Netcool-Omnibus
 
 2. Create a new directory (Ex: mkdir /tmp/nco_kpis)
 3. Copy the "get_nco_metrics.pl" script to the newly created directory /tmp/nco_kpis.
@@ -51,7 +51,7 @@ Limitations:
 
 Scripts Download Location:
 --------------------------
-https://github.com/ArchanaDNaik/Demo
+https://github.com/GDC-ITAuto/Netcool-Omnibus
 
 REVISION HISTORY:
 -----------------
